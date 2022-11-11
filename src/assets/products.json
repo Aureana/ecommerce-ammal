@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Avião Espacial Astronauta",
+        "rating": 4.5,
+        "price": 10600,
+        "imageUrl": "img-1.png",
+        "imageAlt": "Aviãozinho"
+         
+    },
+    {
+        "id": 2,
+        "name": "Brinquedo Infantil Galáctico",
+        "rating": 4.0,
+        "price": 160,
+        "imageUrl": "img-2.png",
+        "imageAlt": "Aviãozinho"
+    },
+    {
+        "id": 3,
+        "name": "Avião Espacial",
+        "rating": 4.5,
+        "price": 10975,
+        "imageUrl": "img-3.png",
+        "imageAlt": "Aviãozinho"
+    },
+    {
+        "id": 4,
+        "name": "Homem da lua",
+        "rating": 3.0,
+        "price": 350,
+        "imageUrl": "img-9.png",
+        "imageAlt": "Aviãozinho"
+    },
+    {
+        "id": 5,
+        "name": "Extra Terrestre miniatura",
+        "rating": 4.5,
+        "price": 140,
+        "imageUrl": "img-5.png",
+        "imageAlt": "Aviãozinho"
+    },
+    {
+        "id": 6,
+        "name": "Astronauta",
+        "rating": 4.5,
+        "price": 500,
+        "imageUrl": "img-4.png",
+        "imageAlt": "Aviãozinho"
+    },
+    {
+        "id": 7,
+        "name": " ",
+        "rating": 2.5,
+        "price": 420,
+        "imageUrl": "img-7.png",
+        "imageAlt": "Aviãozinho"
+    },
+    {
+        "id": 7,
+        "name": " ",
+        "rating": 2.5,
+        "price": 420,
+        "imageUrl": "img-8.png",
+        "imageAlt": "Aviãozinho"
+    },
+    {
+        "id": 7,
+        "name": " ",
+        "rating": 2.5,
+        "price": 420,
+        "imageUrl": "",
+        "imageAlt": "Aviãozinho"
+    }
+]
